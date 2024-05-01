@@ -1,0 +1,4 @@
+credentials:C:\Users\%user%\Desktop\info.txt
+credentials:C:\Users\%user%\Desktop\ssh.txt
+code:E:\py_projects
+books:D:\books
